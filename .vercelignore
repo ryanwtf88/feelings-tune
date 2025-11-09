@@ -1,0 +1,13 @@
+# Replit specific files
+.replit
+replit.nix
+replit.md
+
+# Temporary assets
+attached_assets
+tmp
+temp
+
+# Development files
+.env*.local
+.DS_Store
